@@ -1,0 +1,15 @@
+type	int
+main	main
+(	(
+)	)
+{	{
+type	int
+id	x
+,	,
+id	z
+;	;
+id	x
+assignOp	=
+intLiteral	0
+;	;
+}	}
